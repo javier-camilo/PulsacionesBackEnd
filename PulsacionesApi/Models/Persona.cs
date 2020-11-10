@@ -10,7 +10,7 @@ namespace PulsacionesApi.Models
         public double Pulsacion { get; set; }
         public void CalcularPulsaciones() 
         {
-            if (Sexo.Equals("F") || Sexo.Equals("f"))
+            if (Sexo.ToUpper().Equals("F"))
             {
                 Pulsacion=(220 - Edad) / 10;
             }

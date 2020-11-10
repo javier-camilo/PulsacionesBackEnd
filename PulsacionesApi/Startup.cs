@@ -11,6 +11,9 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 
+using Microsoft.EntityFrameworkCore;
+using PulsacionesApi.Context;
+
 namespace PulsacionesApi
 {
     public class Startup
@@ -25,6 +28,10 @@ namespace PulsacionesApi
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            
+            var connectionString=Configuration.GetConnectionString("DefaultConnection");
+            services.AddDbContext<PulsacionesContext>(p=>p.UseSqlServer(connectionString));
+
             services.AddControllers();
         }
 

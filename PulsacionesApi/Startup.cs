@@ -36,8 +36,8 @@ namespace PulsacionesApi
                 c.SwaggerDoc("v1", new OpenApiInfo
                 {
                     Version = "v1",
-                    Title = "School API",
-                    Description = "School API - ASP.NET Core Web API",
+                    Title = "pulsaciones API",
+                    Description = "Aplicacion para la pulsaciones de una persona",
                     TermsOfService = new Uri("https://cla.dotnetfoundation.org/"),
                     Contact = new OpenApiContact
                     {

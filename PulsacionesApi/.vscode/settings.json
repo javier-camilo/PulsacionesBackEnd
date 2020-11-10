@@ -1,0 +1,4 @@
+{
+    "appService.deploySubpath": "publish",
+    "appService.defaultWebAppToDeploy": "/subscriptions/40581ecd-fada-4d1e-bd03-1b3d7b533c3c/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/pulsacionApi"
+}

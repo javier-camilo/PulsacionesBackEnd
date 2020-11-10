@@ -134,3 +134,9 @@ C:\Users\Camilo Viloria\Desktop\Ejercicio\Pulsaciones\PulsacionesApi\obj\Release
 C:\Users\Camilo Viloria\Desktop\Ejercicio\Pulsaciones\PulsacionesApi\obj\Release\netcoreapp3.1\PulsacionesApi.dll
 C:\Users\Camilo Viloria\Desktop\Ejercicio\Pulsaciones\PulsacionesApi\obj\Release\netcoreapp3.1\PulsacionesApi.pdb
 C:\Users\Camilo Viloria\Desktop\Ejercicio\Pulsaciones\PulsacionesApi\obj\Release\netcoreapp3.1\PulsacionesApi.genruntimeconfig.cache
+C:\Users\Camilo Viloria\Desktop\Ejercicio\Pulsaciones\PulsacionesApi\bin\Release\netcoreapp3.1\Properties\ServiceDependencies\pulsacion - Web Deploy\profile.arm.json
+C:\Users\Camilo Viloria\Desktop\Ejercicio\Pulsaciones\PulsacionesApi\bin\Release\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Camilo Viloria\Desktop\Ejercicio\Pulsaciones\PulsacionesApi\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Camilo Viloria\Desktop\Ejercicio\Pulsaciones\PulsacionesApi\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Camilo Viloria\Desktop\Ejercicio\Pulsaciones\PulsacionesApi\bin\Release\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Camilo Viloria\Desktop\Ejercicio\Pulsaciones\PulsacionesApi\obj\Release\netcoreapp3.1\PulsacionesApi.MvcApplicationPartsAssemblyInfo.cs

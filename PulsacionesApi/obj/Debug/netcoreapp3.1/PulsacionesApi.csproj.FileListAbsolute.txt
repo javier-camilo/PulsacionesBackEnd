@@ -140,3 +140,13 @@ C:\Users\Camilo Viloria\Desktop\Ejercicio\Pulsaciones\PulsacionesApi\bin\Debug\n
 C:\Users\Camilo Viloria\Desktop\Ejercicio\Pulsaciones\PulsacionesApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Camilo Viloria\Desktop\Ejercicio\Pulsaciones\PulsacionesApi\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Camilo Viloria\Desktop\Ejercicio\Pulsaciones\PulsacionesApi\obj\Debug\netcoreapp3.1\PulsacionesApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Camilo Viloria\Desktop\Ejercicio\Pulsaciones\PulsacionesApi\bin\Debug\netcoreapp3.1\publish\web.config
+C:\Users\Camilo Viloria\Desktop\Ejercicio\Pulsaciones\PulsacionesApi\bin\Debug\netcoreapp3.1\publish\appsettings.Development.json
+C:\Users\Camilo Viloria\Desktop\Ejercicio\Pulsaciones\PulsacionesApi\bin\Debug\netcoreapp3.1\publish\appsettings.json
+C:\Users\Camilo Viloria\Desktop\Ejercicio\Pulsaciones\PulsacionesApi\bin\Debug\netcoreapp3.1\publish\PulsacionesApi.deps.json
+C:\Users\Camilo Viloria\Desktop\Ejercicio\Pulsaciones\PulsacionesApi\bin\Debug\netcoreapp3.1\publish\PulsacionesApi.runtimeconfig.json
+C:\Users\Camilo Viloria\Desktop\Ejercicio\Pulsaciones\PulsacionesApi\bin\Debug\netcoreapp3.1\publish\publish\web.config
+C:\Users\Camilo Viloria\Desktop\Ejercicio\Pulsaciones\PulsacionesApi\bin\Debug\netcoreapp3.1\publish\publish\appsettings.Development.json
+C:\Users\Camilo Viloria\Desktop\Ejercicio\Pulsaciones\PulsacionesApi\bin\Debug\netcoreapp3.1\publish\publish\appsettings.json
+C:\Users\Camilo Viloria\Desktop\Ejercicio\Pulsaciones\PulsacionesApi\bin\Debug\netcoreapp3.1\publish\publish\PulsacionesApi.deps.json
+C:\Users\Camilo Viloria\Desktop\Ejercicio\Pulsaciones\PulsacionesApi\bin\Debug\netcoreapp3.1\publish\publish\PulsacionesApi.runtimeconfig.json
